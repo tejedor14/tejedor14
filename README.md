@@ -4,17 +4,21 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariotejedor/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtejedor.work@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=0e75b6)](https://github.com/tejedor14)
-### 🧠 About Me
+[![Profile views](https://komarev.com/ghpvc/?username=tejedor14&style=for-the-badge&color=0e75b6)](https://github.com/tejedor14)
 
+---
+### 🧠 About Me
+---
 I'm a **21-year-old Data Engineer** from Zaragoza, Spain, currently pursuing an **MSc in AI for Sports Performance**. My work sits at the crossroads of data engineering, machine learning, and football analytics.
 
 - 🔭 Currently working on: **sports prediction models, ETL pipelines, visualization tools, and smart apps**
 - 🌱 Currently learning: **Deep Learning (TensorFlow/Keras) · NLP for tactical analysis · Computer Vision**
 - ⚽ Side quest: turning football intuition into cold, hard data
 - 📍 Based in Zaragoza, Spain
-### 🛠️ Tech Stack
 
+---
+### 🛠️ Tech Stack
+---
 **Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,18 +43,23 @@ I'm a **21-year-old Data Engineer** from Zaragoza, Spain, currently pursuing an 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 ### 🚀 Featured Projects
+---
 
 *COMING SOON*
 
+---
 ### 📊 GitHub Stats
+---
 
 ![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=1DB954&icon_color=1DB954)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark&hide_border=true&title_color=1DB954)
 
-
+---
 ### 🤝 Let's Connect
+---
 
 If you're working on something at the intersection of **data, AI, and football** — I'm all ears. Whether it's a collaboration, an open-source contribution, or just a good conversation about expected goals models.
 
